@@ -6,6 +6,7 @@ To use this app you need to install libs from *requirements.txt*.
 
 
 In folder with *main.py* create an *.env* file that include your ***OPENAI_API_KEY*** , ***ASTRA_DB_APP_TOKEN*** , ***ASTRA_DB_ID*** (this app is using Astra Vector Database).
+
 Also you need to have PDFs in same folder.
 
 
