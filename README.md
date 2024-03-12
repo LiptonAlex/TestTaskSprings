@@ -16,4 +16,5 @@ To switch your processed PDF file- you need to change field in method of variabl
 For exiting app - write *quit*.
 
 Example of work:
-![image](https://github.com/LiptonAlex/TestTaskSprings/assets/99798521/67386aa0-8a72-4ff3-ae1f-32077d348c87)
+![image](https://github.com/LiptonAlex/TestTaskSprings/assets/99798521/8521b9f5-1e78-441a-9291-a789e6def36c)
+
