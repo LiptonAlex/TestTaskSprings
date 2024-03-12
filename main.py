@@ -49,7 +49,6 @@ texts = text_splitter.split_text(raw_text)
 
 astra_vector_store.add_texts(texts[:50])
 
-#print("Inserted %i headlines." % len(texts[:50]))
 
 astra_vector_index = VectorStoreIndexWrapper(vectorstore=astra_vector_store)
 
